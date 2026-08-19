@@ -366,3 +366,13 @@ The project demonstrates:
 
 \- Docker image publishing to GHCR
 
+## Deployment Screenshots
+
+### Kubernetes Deployment
+
+![Kubernetes Deployment](screenshots/kubernetes-deployment.png)
+
+### Terraform Deployment
+
+![Terraform Deployment](screenshots/terraform-deployment.png)
+
